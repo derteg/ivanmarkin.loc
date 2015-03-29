@@ -40,7 +40,7 @@ $(function(){
 			autoplay: true,
 			autoplaySpeed: 5000,
 			fade: true,
-			speed: 500
+			speed: 1000
 		});
 	}
 })(jQuery);
