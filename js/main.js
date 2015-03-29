@@ -38,9 +38,9 @@ $(function(){
 			adaptiveHeight: true,
 			draggable: false,
 			autoplay: true,
-			autoplaySpeed: 5000,
+			autoplaySpeed: 8000,
 			fade: true,
-			speed: 1000
+			speed: 5000
 		});
 	}
 })(jQuery);
