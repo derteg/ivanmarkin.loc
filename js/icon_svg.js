@@ -1,4 +1,4 @@
-var icon1 = '<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"' +
+var icon1 = '<svg version="1.1" id="svgLayer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"' +
 	 'width="277px" height="15px" viewBox="0 0 277 15" style="enable-background:new 0 0 277 15;" xml:space="preserve">' +
 '<g class="logo_g1">' +
 	'<path d="M51.7,9.3c1.5,0,2.8,1.2,2.8,2.7c0,1.5-1.3,2.7-2.8,2.7c-1.5,0-2.8-1.2-2.8-2.7C48.9,10.6,50.2,9.3,51.7,9.3z"/>' +

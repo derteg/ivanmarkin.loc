@@ -119,6 +119,28 @@ EM {font-style:normal;}
     color: #F9F9F9;
 }
 
+@media screen and (max-width: 370px) {
+    .b-centr{
+        min-height: 480px;
+    }
+    .b-centr_cont{
+        position: relative;
+        top: -30px;   
+    }
+    .l-mainpromo_logo{
+        margin-bottom: 74px;
+    }
+    .l-mainpromo_logo:before{
+        margin-top: 42px;
+    }
+    #svgLayer1{
+        width: 240px;
+    }
+    .b-mainpromo_foot{
+        bottom: 6px;
+    }
+}
+
 
 /****************** SLICK ****************/
 .slick-slider
