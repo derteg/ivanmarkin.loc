@@ -121,7 +121,7 @@ EM {font-style:normal;}
 
 @media screen and (max-width: 370px) {
     .b-centr{
-        min-height: 480px;
+        min-height: 420px;
     }
     .b-centr_cont{
         position: relative;
